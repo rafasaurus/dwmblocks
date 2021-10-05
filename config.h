@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	// {"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	// {"",	"sb-tasks",	10,	26},
 	// {"",	"sb-music",	0,	11},
-	// {"",	"sb-pacpackages",	0,	8},
+	{"",	"sb-pacpackages",	200,	8},
 	{"",	"sb-todo",	200,	11},
 	{"",	"sb-news",		0,	6},
 	/* {"",	"sb-price lbc \"LBRY Token\" 📚",			9000,	22}, */
@@ -22,8 +22,8 @@ static const Block blocks[] = {
 	// {"",	"sb-forecast",	18000,	5},
 	// {"",	"sb-mailbox",	180,	12},
 	// {"",	"sb-nettraf",	1,	16},
-	{"",	"sb-volume",	0,	10},
 	{"",	"sb-battery",	5,	3},
+	{"",	"sb-volume",	0,	10},
 	{"",	"sb-clock",	    60,	1},
 	{"",	"sb-internet",	5,	4},
 	// {"",	"sb-help-icon",	0,	15},
